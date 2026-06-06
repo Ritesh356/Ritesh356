@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Ritesh+Deshwal!;Web+Developer+%7C+JavaScript+%7C+TypeScript;React+%7C+Nodejs+%7C+Next+%7C+Express;Bootstrap+%7C+ShadCn+%7C+Tailwind+;Prisma+%7C+ConvexDb+%7C+MongoDb" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Ritesh+Deshwal!" />
 </p>
 
 ---
