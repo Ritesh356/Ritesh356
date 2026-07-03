@@ -10,7 +10,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [Cravecart](https://github.com/Ritesh356/cravecart) |  modern, full-stack e-commerce platform. | React ,Nodejs , MongoDb , cloudinary   |
-| [TalkHub](https://talk-hub-tau.vercel.app/) |  full-stack, real-time chat application. | Next js , Convex Db,WebSocket |
+| [TalkHub](https://talk-hub-tau.vercel.app/) |  full-stack, real-time chat application. | Next js ,Convex Db,WebSocket |
 | [Cinewave](https://github.com/Ritesh356/Cinewave) | modern web application for booking movie tickets online. | React Native,tailwind,bootstrap, JavaScript |
 | [Spotify (clone)](link) | Spotify music player's user interface,. | JavaScript, HTML ,CSS |
 
